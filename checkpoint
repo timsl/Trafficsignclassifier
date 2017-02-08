@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\CarND-Traffic-Sign-Classifier-Project\\lolnet"
+all_model_checkpoint_paths: "C:\\CarND-Traffic-Sign-Classifier-Project\\lolnet"
